@@ -1,0 +1,45 @@
+.text-font {
+  font-size: 100%;
+}
+
+.text-blue {
+  color: blue;
+  font-style: italic;
+}
+
+.magazine {
+  text-align: center;
+  word-spacing: normal;
+}
+
+.text-quote {
+  width: 100px;
+  height: 100px;
+  background: yellow;
+  outline: 2px solid black;
+  border: 3px solid white;
+  border-radius: 10px;
+}
+
+.text-background {
+  background-color: blue;
+  font-family: "Times New Roman", Georgia, Serif;
+  font-stretch: semi-condensed;
+  tab-size: initial;
+}
+
+.text-style {
+  font-style: initial;
+  font-weight: bold;
+}
+
+.text-transform {
+  text-transform: uppercase;
+  font-synthesis: weight;
+
+}
+
+.text-decoration {
+  text-decoration-line: underline;
+  font-variant-caps: small-caps;
+}
