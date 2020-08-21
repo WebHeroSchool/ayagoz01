@@ -1,5 +1,6 @@
 .text-font {
   font-size: 100%;
+  font-family:'roboto', sans-serif;
 }
 
 .text-blue {
@@ -42,4 +43,8 @@
 .text-decoration {
   text-decoration-line: underline;
   font-variant-caps: small-caps;
+}
+
+.text-size {
+  font-family:'Oswald', sans-serif;
 }
